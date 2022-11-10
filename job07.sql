@@ -1,0 +1,3 @@
+SELECT * 
+FROM etudiants
+WHERE naissance BETWEEN '1989-01-01' AND '1999-01-01';
